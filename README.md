@@ -9,16 +9,24 @@
 </p>
 
 - Участник ИКАР 2021/2022/2023, победитель в 2 наминациях.
-- Прошел road-map Strada.
+- Прошел родмап от Strada.
 - Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-### Мои проекты
+### Мои проекты:
 
-Tempus - метовселеная микросервисов от учеников Strada, он собрал в себе навыки многих разработчиков и представляет собой мессенджер, ui библиотеку, систему соревнований, конструктор постов, словарь технической литературы и в дальнейшем будет еще больше.
+Tempus - Метовселеная микросервисов от учеников Strada, он собрал в себе навыки многих разработчиков и представляет собой мессенджер, ui библиотеку, систему соревнований, конструктор постов, словарь технической литературы и в дальнейшем будет еще больше.
+
+Tempus Quiz - Микросервис Tempus, созданный для соревнования программистов разного уровня, используя редактор кода в браузере, участники могут решать задачи, после получать за них уровень и награды.
+
+Tempus UI-kit - Микросервис Tempus, собственная ui библиотека на которой написаны все компоненты и страницы Tempus.
+
+<a href="https://tempus-one-ts.vercel.app/" target="_blank">Главная страница Tempus</a><br/>
+<a href="http://localhost:5173/Services/" target="_blank">Микросервисы Tempus</a><br/>
+<a href="https://t.me/NikitaEfimovv" target="_blank">Связь с командой разработчиков</a>
 
 ### Связь со мной:
 
-  <div id="badges" style='display:flex; gap:15px;'>
+  <div id="badges" style='display:flex; gap:30px;'>
     <a href="https://novokuznetsk.hh.ru/resume/1945b4bcff0cba59800039ed1f6e597437646a" target="_blank">
       <img src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" width="40" height="40" alt="linkedin" />
     </a>
@@ -51,7 +59,7 @@ Tempus - метовселеная микросервисов от ученико
 ![react](https://img.shields.io/badge/-vite-700CF5?style=for-the-badge&logo=vite&logoColor=646CFF&color=333)
 ![react](https://img.shields.io/badge/-git-700CF5?style=for-the-badge&logo=git&logoColor=F05032&color=333)
 
-### My statistic
+### Моя статистика:
 
 <table>
   <tr>
