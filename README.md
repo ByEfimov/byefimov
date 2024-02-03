@@ -21,7 +21,7 @@ Tempus Quiz - микросервис Tempus, созданный для соре�
 Tempus UI-kit - микросервис Tempus, собственная UI библиотека на которой написаны все компоненты и страницы Tempus.
 
 <a href="https://tempus-one-ts.vercel.app/" target="_blank">Главная страница Tempus</a><br/>
-<a href="http://localhost:5173/Services/" target="_blank">Микросервисы Tempus</a><br/>
+<a href="https://tempus-one-ts.vercel.app/Services" target="_blank">Микросервисы Tempus</a><br/>
 <a href="https://t.me/NikitaEfimovv" target="_blank">Связь с командой разработчиков</a>
 
 ### Связь со мной:
