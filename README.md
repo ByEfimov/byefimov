@@ -8,7 +8,7 @@
 
   <div id="badges" style='display:flex; gap:15px;'>
     <a href="https://novokuznetsk.hh.ru/resume/1945b4bcff0cba59800039ed1f6e597437646a" target="_blank">
-      <img src="	https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" width="40" height="40" alt="linkedin" />
+      <img src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/NikitaEfimovv" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
