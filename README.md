@@ -1,8 +1,20 @@
+# Привет, меня зовут Никита!
+
+### Обо мне:
+
+Я фронтенд разработчик умеющий решать задачи разного уровня сложности, создаю свои проеты, веду каналы в телеграм и на ютуб, изучаю новые технологии и практикую их на Tempus.
+
 <p align="center">
  <img width="800" src="Assets/github-snake.svg" alt="snake"/>
 </p>
 
-### Обо мне:
+- Участник ИКАР 2021/2022/2023, победитель в 2 наминациях.
+- Прошел road-map Strada.
+- Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+
+### Мои проекты
+
+Tempus - метовселеная микросервисов от учеников Strada, он собрал в себе навыки многих разработчиков и представляет собой мессенджер, ui библиотеку, систему соревнований, конструктор постов, словарь технической литературы и в дальнейшем будет еще больше.
 
 ### Связь со мной:
 
@@ -24,8 +36,6 @@
     </a>
   </div>
 
-### Мои проекты
-
 ### Мой стек технологий:
 
 ![react](https://img.shields.io/badge/-REACT-700CF5?style=for-the-badge&logo=react&logoColor=61DAFB&color=333)
@@ -38,5 +48,18 @@
 ![react](https://img.shields.io/badge/-SASS-700CF5?style=for-the-badge&logo=sass&logoColor=CC6699&color=333)
 ![react](https://img.shields.io/badge/-firebase-700CF5?style=for-the-badge&logo=firebase&logoColor=FFCA28&color=333)
 ![react](https://img.shields.io/badge/-NPM-700CF5?style=for-the-badge&logo=npm&logoColor=CB3837&color=333)
+![react](https://img.shields.io/badge/-vite-700CF5?style=for-the-badge&logo=vite&logoColor=646CFF&color=333)
+![react](https://img.shields.io/badge/-git-700CF5?style=for-the-badge&logo=git&logoColor=F05032&color=333)
 
 ### My statistic
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ByEfimov&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ByEfimov&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
